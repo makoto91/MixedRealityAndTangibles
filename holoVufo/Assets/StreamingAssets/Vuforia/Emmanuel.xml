@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fireColor" size="15.000000 15.000000" />
+    <ImageTarget name="waterColor" size="15.000000 14.824561" />
+    <ImageTarget name="windColor" size="15.000000 14.824561" />
+    <ImageTarget name="wind" size="15.000000 14.824561" />
+    <ImageTarget name="windRed" size="15.000000 14.824561" />
+    <ImageTarget name="fireRed2" size="15.000000 15.000000" />
+    <ImageTarget name="fireRed" size="15.000000 15.000000" />
+    <ImageTarget name="water" size="15.000000 14.824561" />
+    <ImageTarget name="waterRed" size="15.000000 14.824561" />
+    <ImageTarget name="fire" size="15.000000 15.000000" />
+  </Tracking>
+</QCARConfig>

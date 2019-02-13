@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="wind" size="1.000000 0.988304" />
+    <ImageTarget name="water" size="1.000000 0.988304" />
+    <ImageTarget name="fire" size="1.000000 1.000000" />
+    <ImageTarget name="windRedColor" size="1.000000 0.988304" />
+    <ImageTarget name="waterRedColor" size="1.000000 0.988304" />
+    <ImageTarget name="fireRedColor" size="1.000000 1.000000" />
+    <ImageTarget name="windRed" size="1.000000 0.988304" />
+    <ImageTarget name="waterRed" size="1.000000 0.988304" />
+    <ImageTarget name="fireRed" size="1.000000 1.000000" />
+    <ImageTarget name="road" size="1.000000 0.701493" />
+    <ImageTarget name="markerCircle" size="1.000000 1.000000" />
+    <ImageTarget name="stones" size="1.000000 0.701493" />
+    <ImageTarget name="Lettre3" size="1.000000 0.923423" />
+    <ImageTarget name="Lettre2" size="1.000000 0.923423" />
+    <ImageTarget name="Lettre1" size="1.000000 0.923423" />
+    <ImageTarget name="chips" size="0.500000 0.350000" />
+  </Tracking>
+</QCARConfig>
